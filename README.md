@@ -9,7 +9,7 @@
 <!-- Main Introduction - Bold, confident, and multi-faceted -->
 <h1 align="center">
   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  Hello there, Visionary! 👋 I'm <strong>Mamex Abdela</strong>.
+  Hello there, Visionary! 👋 I'm <strong>Mohammed A</strong>.
 </h1>
 
 <p align="left">
